@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, I'm Danillo</h1>
 <h3 align="center"> A Software Developer who prefers tea to coffee :sunglasses:</h3>
 
-<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" width="320" height="330">  
+<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" width="320" height="320">  
 <div align="left">
   <ul>
     <li>:round_pushpin: I'm live Maceió - AL, Brazil</li>
@@ -17,10 +17,7 @@
   <a href="https://www.linkedin.com/in/danillo-victtor" target='_blank'> 
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
   </a>
-  </div>
-  
-
-  
+  </div>  
 </div>
 
 <div align="left">
