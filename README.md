@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, I'm Danillo</h1>
 <h3 align="center"> A Software Developer who prefers tea to coffee :sunglasses:</h3>
 
-<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" width="320" height="320">  
+<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/src/Assets/vector.gif?raw=true" align="right" width="380" height="330">  
 <div align="left">
   <ul>
     <li>:round_pushpin: I'm live Maceió - AL, Brazil</li>
@@ -25,6 +25,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilovictor2004&layout=compact&theme=midnight-purple" />
 </a> 
 </div>
+
 
 
 
