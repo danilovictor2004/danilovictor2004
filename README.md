@@ -1,3 +1,9 @@
+<style>
+  li {
+    list-style: none;
+  }
+</style>
+
 <h1 align="center"> Hi there 👋, I'm Danillo</h1>
 <h3 align="center"> A Software Developer who prefers tea to coffee :sunglasses:</h3>
 
