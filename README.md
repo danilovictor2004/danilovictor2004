@@ -6,7 +6,7 @@
   <ul>
     <li>:round_pushpin: I'm live Maceió - AL, Brazil</li>
     <li>🔭 I’m currently working at Unimed Maceió - AL</li>
-    <li>:books: I’m currently learning HTML5, CSS3, Javascript and PL/SQL</li>
+    <li>:books: I’m currently learning in Rocketseat</li>
     <li>📫 Social Media</li>
   </ul>
   <div>
